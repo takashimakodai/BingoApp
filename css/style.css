@@ -1,0 +1,26 @@
+body {
+  background-color: greenyellow;
+}
+
+table {
+  margin: 80px auto;
+}
+
+th {
+  background-color: hotpink;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  font-size: 30px;
+  text-align: center;
+
+ }
+
+td {
+ background-color: hotpink;
+ border-radius: 50%;
+ width: 100px;
+ height: 100px;
+ font-size: 30px;
+ text-align: center;
+}
